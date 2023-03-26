@@ -1,16 +1,17 @@
 @import url("https://nyri4.github.io/donators/donators.css");
-@import url("https://fonts.cdnfonts.com/css/ink-free");
+@import url("https://fonts.googleapis.com/css2?family=Nunito");
+
+::placeholder, body, button, input, select, textarea {
+font-family: "Ink free";
+text-rendering: optimizeLegibility;
+}
+
 :root .container-3wLKDe {
   background: var(--background-primary);
 }
 :root .container-3wLKDe .mainCard-3KBsBI {
   background-color: var(--background-secondary);
 }
-
-::placeholder, body, button, input, select, textarea {
-font-family: "Ink free";
-text-rendering: optimizeLegibility;
-
 :root .threadSidebar-1o3BTy {
   position: fixed;
   top: 220px;
@@ -1405,7 +1406,7 @@ text-rendering: optimizeLegibility;
 :root input,
 :root select,
 :root textarea {
-  font-family: "Ink free" !important;
+  font-family: "Nunito" !important;
 }
 :root .bg-1QIAus {
   background: var(--background-tertiary-alt);
