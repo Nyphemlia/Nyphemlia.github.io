@@ -4,7 +4,6 @@
 
 ::placeholder, body, button, input, select, textarea {
 font-family: "Ink free";
-text-rendering: optimizeLegibility;
 }
 
 :root .container-3wLKDe {
@@ -1407,7 +1406,7 @@ text-rendering: optimizeLegibility;
 :root input,
 :root select,
 :root textarea {
-  font-family: "Nunito" !important;
+  font-family: "Ink Free" !important;
 }
 :root .bg-1QIAus {
   background: var(--background-tertiary-alt);
