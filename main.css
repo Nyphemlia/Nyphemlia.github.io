@@ -1,5 +1,5 @@
 @import url("https://nyri4.github.io/donators/donators.css");
-@import url("https://fonts.googleapis.com/css2?family=Nunito");
+@import url("https://fonts.cdnfonts.com/css/ink-free");
 :root .container-3wLKDe {
   background: var(--background-primary);
 }
@@ -1400,7 +1400,7 @@
 :root input,
 :root select,
 :root textarea {
-  font-family: "Nunito" !important;
+  font-family: "Ink free" !important;
 }
 :root .bg-1QIAus {
   background: var(--background-tertiary-alt);
