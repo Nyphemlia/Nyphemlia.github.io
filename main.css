@@ -6,6 +6,11 @@
 :root .container-3wLKDe .mainCard-3KBsBI {
   background-color: var(--background-secondary);
 }
+
+::placeholder, body, button, input, select, textarea {
+font-family: "Ink free";
+text-rendering: optimizeLegibility;
+
 :root .threadSidebar-1o3BTy {
   position: fixed;
   top: 220px;
